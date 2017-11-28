@@ -1,3 +1,0 @@
-# hello-world
-Practice round 1
-And here we go...
